@@ -1,2 +1,3 @@
 test_ignorefile.txt
 /log
+*.orig
